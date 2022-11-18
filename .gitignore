@@ -161,3 +161,12 @@ cython_debug/
 
 receive_awards_by_hour.csv
 tvizbase/__pycache__/
+example_operations.py
+tx_raw/
+run.bat
+run.bat.lnk
+1.csv
+2.csv
+count_receive_awards_by_hour.7z
+viz-dashboard-v3.7z
+count_receive_awards_by_hour.csv
